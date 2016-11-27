@@ -1,0 +1,22 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    background: #2BA0A0;
+    height: 100%;
+}
+
+.logo-wrap {
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60vw;
+    max-width: 1000px;
+    max-height: 100vh;
+}

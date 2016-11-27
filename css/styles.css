@@ -17,6 +17,5 @@ body,html {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 60vw;
-    max-width: 1000px;
-    max-height: 100vh;
+    max-height: 60vh;
 }
